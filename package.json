@@ -1,0 +1,31 @@
+{
+  "name": "style-test-features-to-xlsx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "arcgis-api-client": "^1.0.1",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "babel-register": "^6.16.3",
+    "xlsx-style": "^0.8.8"
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "babel-register": "^6.16.3"
+  },
+  "scripts": {
+    "start": "node dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAlexandr/style-test-features-to-xlsx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAlexandr/style-test-features-to-xlsx/issues"
+  },
+  "homepage": "https://github.com/IAlexandr/style-test-features-to-xlsx#readme"
+}
